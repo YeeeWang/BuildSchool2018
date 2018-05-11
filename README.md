@@ -12,4 +12,33 @@ Test
 *BuildSchool*  
 **BuildSchool**  
     
-    BuildSchool
+    BuildSchool  
+ # BuildSchool
+#### BuildSchool 
+\# *BuildSchool*  
+> BuildSchool  
+>> BuildSchool  
+* BuildSchool  
+  * BuildSchool 
+    * BuildSchool   
+  * BuildSchool
+    * BuildSchool  
+
+1. C#
+2. HTML
+3. CSS
+    1. Bootstrap
+4. Javascript
+    1. jQuery
+    2. Ajax
+5. Type Angular
+6. UserScript
+7. SQL Server
+8. ASP.NET MVC
+
+---
+
+```C#
+var x=10;
+var y=10;
+var z=x+y;
